@@ -1,0 +1,28 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: wheat;
+  text-align: center;
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  border: 10px solid red;
+}
+.container {
+  display: flex;
+  /* flex-direction: column; */
+  /* flex-wrap: wrap; */
+  align-items:center;
+  justify-content:center;
+  background-color: pink;
+  width: 700px;
+  height: 400px;
+}
+
+.a1{
+    flex: 2;
+}
+.a2{
+    flex: 3;
+}

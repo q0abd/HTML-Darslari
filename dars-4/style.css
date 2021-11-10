@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&family=Hammersmith+One&display=swap");
+.salom {
+  font-size: 50px;
+  font-weight: 100;
+  text-align:center;
+  text-transform:capitalize;
+  text-indent: 100px;
+  color:white;
+  text-shadow: 1px 1px 3px black;
+}
+.hello {
+  font-size: 50px;
+  font-weight: 800; 
+  font-style: italic;
+}
+
+.link {
+    text-decoration:line-through;
+}
